@@ -83,3 +83,50 @@ https://www.toptal.com/front-end/frontend-clean-code-guide
 
 ### Article 3: 10 Tips for writing clean and efficient PHP code
 https://skytechbot.com/10-tips-for-writing-clean-and-efficient-php-code/
+
+1. Use descriptive and consistent naming conventions:
+   a. Use descriptive names
+   b. Follow the same case
+   c. Use meaningful prefixes
+   d. Avoid abbreviations
+   e. Follow PHP naming convensions
+2. Write modular and reusable code:
+    a. Use functions and classes
+    b. Follow the single responsibility principle
+    c. Use dependency injections
+    d. Use namespaces
+    e. Write unit tests if needed
+    f. Prioritize design patterns
+    g. Document your code by leaving comments
+3. Keep your Code DRY (Don't Repeat Yourself):
+   a. Use functions, classes and other constructs for repeating logic
+   b. Use constants, loops, and configuration files
+   c. Use inheritance if applicable
+   d. Use templates if applicable
+4. Use proper indentation and formatting in PHP:
+   a. Use consistent indentation style, brace placement, and capitalization
+   b. Avoid long lines
+   c. Use whitespace to separate blocks
+   d. Comment
+   e. Use formatting tools
+5. Optimize your PHP code for performance
+   a. Use caching, efficient algorithms, and data structures
+   b. Optimize your code for the specific environment
+   c. Minimize database queries
+   d. Use a profiler
+   e. Minimize memory usage
+   f. Avoid unnecessary function calls
+6. Write Comments!
+   a. Use clear, concise, and descriptive language
+   b. Comment whats necessary
+   c. Keep them up to date
+   d. Use a consistent style
+   e. Use commenting tools like PHPDoc or Doxygen
+7. Test your Code
+   a. Run them frequently
+   b. Use a testing framework
+   c. Document your tests
+8. Use PHP frameworks and libraries
+9. Continuously improve your code
+
+   
