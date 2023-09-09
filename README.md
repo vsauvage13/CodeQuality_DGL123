@@ -80,4 +80,6 @@ https://www.toptal.com/front-end/frontend-clean-code-guide
 18. Be mindful of which elements will be affected when writing CSS rules and use preexisting ones before creating new ones
 19. Make rules specific
 20. Use shorthand properties and values
-    
+
+### Article 3: 10 Tips for writing clean and efficient PHP code
+https://skytechbot.com/10-tips-for-writing-clean-and-efficient-php-code/
