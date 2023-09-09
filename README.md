@@ -129,4 +129,17 @@ https://skytechbot.com/10-tips-for-writing-clean-and-efficient-php-code/
 8. Use PHP frameworks and libraries
 9. Continuously improve your code
 
-   
+
+### Article 4: Top 10 Tips To Write Clean Code
+https://www.nilebits.com/blog/2023/01/top-10-tips-to-write-clean-code/
+
+1. Follow a consistent coding style.
+2. Use descriptive and meaningful names for variables, functions, and other identifiers.
+3. Keep your code simple and avoid using complex solutions unless they are absolutely necessary.
+4. Use comments to explain the purpose and function of your code
+5. Avoid using global variables where possible.
+6. Avoid writing code that is prone to errors.
+7. Keep your code up-to-date and refactor it as needed.
+8. Keep your Code DRY (Don't Repeat Yourself)
+9. Avoid using magic numbers and strings and use constants or enums instead.
+10. Use design patterns and best practices 
