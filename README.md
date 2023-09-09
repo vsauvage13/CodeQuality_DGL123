@@ -43,3 +43,7 @@ https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf
 8. Code is well-documented:
     a. Comments explain why something is done in an easy-to-understand way. 
     b. PHPDoc blocks are used for classes, methods, and variables when needed.
+
+
+### Article 2: Clean Code: Why HTML/CSS Essentials Still Matter
+https://www.toptal.com/front-end/frontend-clean-code-guide
