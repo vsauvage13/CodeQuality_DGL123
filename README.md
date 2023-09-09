@@ -182,3 +182,6 @@ PHP Coding Best Practices:
     b. Keep code DRY, use constants, and optimize formatting
     c. Document code and apply testing practices
     d. Optimize for performance and continuously improve
+
+Work Evaluation: 
+I would evaluate my work as a 3. I think a decent job summarizing the articles but combining them was a little bit trickier than summarizing. I might have made a few similar points in the summary but overall I think I did a very concise job of organizing all of the content. 
