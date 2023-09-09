@@ -142,4 +142,43 @@ https://www.nilebits.com/blog/2023/01/top-10-tips-to-write-clean-code/
 7. Keep your code up-to-date and refactor it as needed.
 8. Keep your Code DRY (Don't Repeat Yourself)
 9. Avoid using magic numbers and strings and use constants or enums instead.
-10. Use design patterns and best practices 
+10. Use design patterns and best practices
+
+
+Overall List: 
+
+Coding Best Practices: 
+1. Code Quality
+    a. Maintain readability with meaningful names and proper formatting
+    b. Apply DRY principle (Don't Repeat Yourself) to remove redundancy
+    c. Promote modularity by breaking code into smaller, independent pieces
+    d. Optimize for efficiency with the right data structures and algorithms
+    e. Using SASS Parent selectors to nest styles where applicable - make sure to never nest more than three layers deep for readability.
+    f. Concise Comments
+
+3. Error Handling & Design
+    a. Ensure robust error handling by validating inputs, handling exceptions, and providing meaningful error messages
+    b. Design code for testability, keeping clear inputs and outputs, and avoiding hidden dependencies
+    c. Follow coding standards and document code with comments
+   
+HTML and CSS Best Practices:
+1. Code Quality:
+    a. Validate HTML and CSS
+    b. Enhance accessibility and design with alt tags, contrast, and descriptive URLs
+    c. Use kebab-case
+    d. Keep names meaningful, short, and easy to understand.
+3. CSS Styling:
+    a. Write specific CSS selectors
+    b. Utilize rem units, avoid fixed dimensions, and use padding for height
+    c. Follow best practices for CSS frameworks and preprocessors
+    d. Avoid unnecessary wrappers and divs in HTML when possible
+    e. Try to look for existing rules and variables before writing new ones
+    f. Think about which elements will be affected before writing a CSS rule - can I use Bootstrap or SASS?
+    g. Use A > B selectors
+
+PHP Coding Best Practices:
+1. Code Quality:
+    a. Adopt consistent naming conventions and create modular, reusable code
+    b. Keep code DRY, use constants, and optimize formatting
+    c. Document code and apply testing practices
+    d. Optimize for performance and continuously improve
